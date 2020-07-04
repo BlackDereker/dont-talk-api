@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+scipy
+spacy
+dynaconf
+flask-cors
+flask_restful
+flask
+dynaconf
+pendulum
+tensorflow
+keras
+tensorflow-gpu
+flake8
+black
+jsonschema
