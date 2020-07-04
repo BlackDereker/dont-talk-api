@@ -1,0 +1,4 @@
+[default]
+FLASK_DEBUG = true
+FLASK_PORT = 8000
+FLASK_HOST = "localhost"
