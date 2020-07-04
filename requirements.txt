@@ -14,3 +14,4 @@ keras
 tensorflow-gpu
 flake8
 black
+jsonschema
