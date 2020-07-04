@@ -1,4 +1,4 @@
-# dont-talk
+# dont-talk-api
 
 This is an API for text response using NLP (Natural Language Processing)
 
