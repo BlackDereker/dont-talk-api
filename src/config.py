@@ -3,7 +3,7 @@ from dynaconf import settings
 from common.formatter_logger import log
 from common.formatter_logger.utils import config_validator
 
-LOG_NAME = settings.get("LOG_NAME", "bot-reports", fresh=True)
+LOG_NAME = settings.get("LOG_NAME", "dont-talk-api", fresh=True)
 logger = log.getLogger(LOG_NAME)
 
 variables = [
